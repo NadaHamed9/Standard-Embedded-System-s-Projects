@@ -3,7 +3,7 @@
 
 ## Overview
 This project implements a distance measurement system using the HC-SR04 ultrasonic sensor and ATmega32 microcontroller. The system measures the distance and displays it on a 4x16 LCD. The design follows a layered architecture model and utilizes various drivers for GPIO, ICU, and LCD.
-
+![My Image](overview2.png)
 ## System Requirements
 1. **Microcontroller:** ATmega32 with 8MHz frequency.
 2. **Ultrasonic Sensor:** HC-SR04 for distance measurement.
