@@ -66,10 +66,6 @@ This project implements a Stop Watch system using the ATmega32 microcontroller. 
 - **Video Tutorial**: [Stop Watch System Overview](https://youtu.be/emp-musYxII)
 - **Datasheets**: Refer to the ATmega32 and 7447 datasheets for detailed specifications and configurations.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 Special thanks to the course materials and resources that provided guidance and code snippets used in this project.
