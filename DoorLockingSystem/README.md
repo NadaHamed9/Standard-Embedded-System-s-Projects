@@ -3,6 +3,8 @@
 ## Project Overview
 This project implements a Door Locker Security System to unlock a door using a password. The system uses two ATmega32 Microcontrollers with a frequency of 8MHz. It is designed and implemented based on a layered architecture model.
 
+![My Image](overview.png)
+
 ## Specifications
 1. **Microcontrollers:** 
    - 2 x ATmega32 Microcontrollers (8MHz)
