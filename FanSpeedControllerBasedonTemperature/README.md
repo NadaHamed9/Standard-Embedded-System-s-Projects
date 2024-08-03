@@ -4,6 +4,7 @@
 ## Overview
 
 This project aims to design a temperature-controlled fan using the ATmega32 microcontroller. The fan is automatically turned ON or OFF based on the temperature readings from the LM35 temperature sensor. The system includes ADC conversion, LCD display, and DC motor control using PWM.
+![My Image](overview3.png)
 
 ## System Requirements
 
