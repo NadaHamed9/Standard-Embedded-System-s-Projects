@@ -31,6 +31,7 @@ This project implements a Door Locker Security System to unlock a door using a p
 
 ### Step 2: Main Options
 - The LCD displays the main system options.
+  ![My Image](Options.png)
   
 ### Step 3: Open Door
 - The LCD displays “Please Enter Password”.
